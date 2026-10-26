@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>IP Messenger Pro</title>
+    <item>
+      <title>0.15.1-pro</title>
+      <pubDate>Mon, 26 Oct 2026 04:39:05 +0000</pubDate>
+      <sparkle:version>266</sparkle:version>
+      <sparkle:shortVersionString>0.15.1-pro</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>11.5</sparkle:minimumSystemVersion>
+      
+      <enclosure url="https://github.com/armychawakorn/IPMessenger-Pro-Updates/releases/download/updates/IPMessenger-0.15.1-pro.zip" type="application/octet-stream" sparkle:edSignature="4nJCL9m3Ns/re/u7AABRlwA+8ozkmp7/LihqM9cfqLqspJTHEPFnLOxJA+KDj+ZFrfIyg7DxrWzIvGghP9LtAw==" length="5032916" />
+    </item>
+  </channel>
+</rss>
