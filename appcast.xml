@@ -3,13 +3,13 @@
   <channel>
     <title>IP Messenger Pro</title>
     <item>
-      <title>0.15.3-pro</title>
-      <pubDate>Wed, 28 Oct 2026 11:09:09 +0000</pubDate>
-      <sparkle:version>268</sparkle:version>
-      <sparkle:shortVersionString>0.15.3-pro</sparkle:shortVersionString>
+      <title>0.15.4-pro</title>
+      <pubDate>Fri, 30 Oct 2026 09:00:18 +0000</pubDate>
+      <sparkle:version>269</sparkle:version>
+      <sparkle:shortVersionString>0.15.4-pro</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.5</sparkle:minimumSystemVersion>
       
-      <enclosure url="https://github.com/armychawakorn/IPMessenger-Pro-Updates/releases/download/updates/IPMessenger-0.15.3-pro.zip" type="application/octet-stream" sparkle:edSignature="utjXDZsdvet+YyfwVHXL1e6DoeA1MtLyeVN8OBwdHF3cHWh08lsUrs7TBze64ZSvRc5edotGEVTDItFqhVEqAA==" length="10527421" />
+      <enclosure url="https://github.com/armychawakorn/IPMessenger-Pro-Updates/releases/download/updates/IPMessenger-0.15.4-pro.zip" type="application/octet-stream" sparkle:edSignature="qY4FHd2BSYH8PEDKZUvbaksgf6v7Zjmzseg/fMd39Sc+09xi9Znt4LZpmUoap+YUqu2+N3lLtbXQ83khc1VaBw==" length="10537413" />
     </item>
   </channel>
 </rss>
