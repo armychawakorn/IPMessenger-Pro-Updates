@@ -3,13 +3,13 @@
   <channel>
     <title>IP Messenger Pro</title>
     <item>
-      <title>0.15.8-pro</title>
-      <pubDate>Mon, 02 Nov 2026 09:34:13 +0000</pubDate>
-      <sparkle:version>273</sparkle:version>
-      <sparkle:shortVersionString>0.15.8-pro</sparkle:shortVersionString>
+      <title>0.15.9-pro</title>
+      <pubDate>Wed, 04 Nov 2026 08:42:38 +0000</pubDate>
+      <sparkle:version>274</sparkle:version>
+      <sparkle:shortVersionString>0.15.9-pro</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>11.5</sparkle:minimumSystemVersion>
       
-      <enclosure url="https://github.com/armychawakorn/IPMessenger-Pro-Updates/releases/download/updates/IPMessenger-0.15.8-pro.zip" type="application/octet-stream" sparkle:edSignature="vksvS8HwRlCI6gIHLbek19GGD+B9fN7gxjXE9KeQKAbFw0RXa4B1Yzrca3vRYM7N2prUULdYJO5gULvXdJg+CA==" length="10551550" />
+      <enclosure url="https://github.com/armychawakorn/IPMessenger-Pro-Updates/releases/download/updates/IPMessenger-0.15.9-pro.zip" type="application/octet-stream" sparkle:edSignature="9Azp69UHahYCOPwmSGLE/KDG6/y4pT5MohwH9XoiwJ1Xe6ik8KWTougX6smRq5Atfoh2O5cXv8bEh4Bw6mO2Cw==" length="10571046" />
     </item>
   </channel>
 </rss>
